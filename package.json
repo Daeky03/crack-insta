@@ -1,0 +1,22 @@
+{
+  "name": "crack-insta",
+  "version": "0.1.0",
+  "description": "A simple Instagram brute force using the technique",
+  "main": "crack-insta.js",
+  "scripts": {
+    "start": "node crack-insta.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "fs": "0.0.1-security",
+    "instagram-web-api": "^2.2.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  
+  "license": "MIT",
+  "keywords": [
+    "node"    
+  ]
+}
